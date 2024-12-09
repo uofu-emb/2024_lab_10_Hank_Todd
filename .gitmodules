@@ -10,3 +10,4 @@
 [submodule "lib/pico-extras"]
 	path = lib/pico-extras
 	url = https://github.com/raspberrypi/pico-extras.git
+#sudo /Users/toddnielsen/.pico-sdk/picotool/2.0.0/picotool/picotool load /Users/toddnielsen/ECE_6785/2024_lab_10_Hank_Todd/build/src/sleep.elf -fx
